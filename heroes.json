@@ -1,0 +1,61 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "a733ca9a-3a6f-4dbc-90eb-94f8e5328f3c",
+      "name": "RickAndMorty",
+      "description": "уы4еоленп",
+      "element": "wind"
+    },
+    {
+      "id": "518ef007-a7c7-4d24-9a8c-600a623b072b",
+      "name": "fghfgh",
+      "description": "dfhfgyh",
+      "element": "water"
+    },
+    {
+      "id": "fe02028c-b833-4081-8473-68b85bb9eca9",
+      "name": "gfvngv",
+      "description": "fghfgh",
+      "element": "earth"
+    },
+    {
+      "id": "562c2c47-6233-474c-a5bd-99225c472a0e",
+      "name": "RickAndMorty",
+      "description": "ывпавап",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
